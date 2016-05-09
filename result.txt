@@ -1,0 +1,12 @@
+The real class is 20%, while classified as 30%
+The real class is 20%, while classified as 30%
+The real class is 20%, while classified as 30%
+The real class is 80%, while classified as 70%
+The real class is 40%, while classified as 50%
+The real class is 20%, while classified as 30%
+The real class is 40%, while classified as 50%
+The real class is 80%, while classified as 70%
+The real class is 80%, while classified as 70%
+The real class is 20%, while classified as 30%
+The correct detections are: 70, the total number is 80
+The accuracy is 0.875000 
